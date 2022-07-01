@@ -1,0 +1,11 @@
+{
+  "name": "email-sending-using-node",
+  "version": "1.0.0",
+  "description": "this is a node js application which is use to send email",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "developer-yash'",
+  "license": "ISC"
+}
